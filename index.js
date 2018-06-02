@@ -33,9 +33,45 @@ let getLocations = async () => {
     },
     {
       name: 'cap_haitien',
-      lat: 19.7483828,,
+      lat: 19.7483828,
       lon: -72.2045167,
       zoom: 15
+    },
+    {
+      name: 'xela',
+      lat: 14.8402311,
+      lon: -91.5233408,
+      zoom: 15
+    },
+    {
+      name: 'rabat',
+      lat: 34.0227644,
+      lon: -6.835418,
+      zoom: 15
+    },
+    {
+      name: 'wonsan',
+      lat: 39.1586581,
+      lon: 127.4437262,
+      zoom: 15
+    },
+    {
+      name: 'shanghai',
+      lat: 31.2298189,
+      lon: 121.4830445,
+      zoom: 15
+    },
+    {
+      name: 'kolkata',
+      lat: 22.5893012,
+      lon: 88.3308799,
+      zoom: 15
+    },
+    {
+      name: 'yinchuan',
+      lat: 38.4692008,
+      lon: 106.0908773,
+      zoom: 12
     }
   ]
 
