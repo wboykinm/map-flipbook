@@ -8,8 +8,8 @@ node index.js
 
 # create updated gifs
 
-convert -delay 20 -loop 0 *.jpg myimage.gif
+# convert -delay 20 -loop 0 *.png myimage.gif
 
 # push to S3
-AWS_PROFILE=flipbook aws s3 sync img/ s3://map-flipbook/
+# AWS_PROFILE=flipbook aws s3 sync img/ s3://map-flipbook/
 
