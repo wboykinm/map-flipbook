@@ -3,9 +3,13 @@
 ## dependencies
 - imagemagick
 - nodejs v8+
-- jq
 
 ## usage
 ```
-bash flipbook.sh
+npm install
+node index.js
 ```
+
+. . . which will produce gifs!
+
+![rabat](img/gif/lower_manhattan.gif)
