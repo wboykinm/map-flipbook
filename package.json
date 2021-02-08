@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/wboykinm/map-flipbook#readme",
   "dependencies": {
-    "puppeteer": "^1.4.0"
+    "puppeteer": "^1.13.0"
   }
 }
