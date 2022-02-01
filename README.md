@@ -7,9 +7,9 @@
 ## usage
 ```
 npm install
-node index.js
+npm run flip
 ```
 
-. . . which will produce gifs!
+. . . which will produce gifs like this!
 
-![rabat](img/gif/lower_manhattan.gif)
+![nyc](img/gif/lower_manhattan.gif)
